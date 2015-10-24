@@ -13,5 +13,5 @@ Then run with:
 
 `./yaye <filename>`
 
-## Sample Program
+### Sample Program
 Also included is a y86 program that exploits a stack buffer overflow. The program file is called "bufferoverflow" and the readme with the corresponding reference assembly code is in "bufferoverflow_readme.txt".
