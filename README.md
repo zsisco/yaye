@@ -1,8 +1,6 @@
 # yaye
 yaye is Yet Another y86 Emulator
 
- * Uses GCC.
-
  * The max. memory size is set by a macro (MAX_MEM) in yaye.h, the default is 4096 bytes.
 
 Please build with:
